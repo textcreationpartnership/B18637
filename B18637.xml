@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The case of the brewers in relation to the bill entitled an Act, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18637</idno><idno type="EEBO-CITATION">99885117</idno>
+  <idno type="VID">190223</idno>
+  <idno type="EEBO-PROQUEST">2240882262</idno>
+  
+            <idno type="STC">Wing C1023B</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.12[66]</idno>
+            <idno type="STC">ESTC R220747</idno>
+            <idno type="PROQUEST">ocm99885117</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885117e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18637)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190223)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C19:1[72])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The case of the brewers in relation to the bill entitled an Act, &amp;c.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1696?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Brewers --  England --  Early works to 1800.</term>
+               <term type="topical_term">Beer --  England --  Early works to 1800.</term>
+               <term type="topical_term">Brewing industry --  Law and legislation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="appeal">
+            <pb facs="tcp:190223:1"/>
+            <head>THE CASE OF THE BREWERS In Relation to the BILL Entitled an Act, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is observable, that no Trade in <hi>England</hi> is subject to such Penalties and to such severe Methods of Prosecutions for them, in a summary way without Tryal by Jury, as Brewing: and it is further observ<g ref="char:EOLhyphen"/>able by Experience, that great or multiplied Penalties seldom or never answer the end for which they were designed: That no Tax or Duty payable to the Crown, hath more ample and prudent Provisions already for its full Receipt, than the Excise upon <hi>Beer</hi> and <hi>Ale;</hi> that the increase of Laws of this kind can only give further trouble and vexation to the <hi>Brewer,</hi> but never augment the Revenue: that it may weary the <hi>Brewer</hi> out of his Trade and make House-keepers to Brew for themselves, and consequently lessen rather than increase the Duty.</p>
+            <p>This Bill as to this matter cites three things, in which it is mistaken in the Fact, and upon those Mi<g ref="char:EOLhyphen"/>stakes it makes these new Provisions.</p>
+            <p n="1">I. That in all Party-Guiles, the <hi>Brewer</hi> shall declare what Quantities are designed to be Strong and what Small, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Answer. </seg>
+               </label> If this be past, they must almost unavoidably incur the Penalty, because the Gaugers differ themselves, and a Barrel sound more by the Gauger than was declared incurs a Pain; and before hand it is impossible to be known how the same will rise; 'tis hard for two Gaugers to agree, much less for the Brewer to declare before hand what the Gaugers Account will be afterwards; and 'tis their practise to compare together and charge the <hi>Brewer</hi> with the highest.</p>
+            <p n="2">II. That the Gauger shall continue while the Guile is Brewing, cleansed and carried our, under pain, <hi>&amp;c.</hi> This is to make the <hi>Brewer</hi> not a free <hi>Engliskman,</hi> but always under Guard in his own House; 'tis to subject his Goods and Property to Fire, Theft and other Accidents, the meanest of People being employed as Setters: 'tis useless, because when cleansed and carried ou<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no true Gauge can be, for the Waste which happens and other Accidents, make the Quantity less than while in Wort: 'tis use<g ref="char:EOLhyphen"/>less, because they have now a liberty of coming by day or night, and they now Gauge eighteen or twenty times in a Brewing; and the Brewer cannot already carry out but in the day time, so that continual lodging in their Houses, is only to vex the Trader not to serve the Crown; and a Brewing is three days 'till carried out, and then two Guiles a Week subjects them to the constant Company of these temptable Wretches, who serve for 18<hi>d. per Diem.</hi>
+            </p>
+            <p n="3">III. It forbids using any Drink returned; which in vast quantities they are forced to receive back from insolvent Customers, and this makes the same Beer pay a double Duty and a Penalty too.</p>
+            <p n="4">IV. It impowers them to summon Servants to give Evidence against their Masters, which must be a great temptation to idle Servants which are turn'd off, to accuse their Masters; and it seems unnatural in Cases where there is no Trial by a Jury, as o<g ref="char:EOLhyphen"/>ther <hi>Englishmen</hi> upon Penal Laws have.</p>
+            <p n="5">V. It Repeals Two Laws, which were made to prevent Overcharges upon <hi>Brewers,</hi> and are founded upon Justice and Equality; that Right may be done between the King and Subject, in requiring them to leave Notes at the time of Gauging with the <hi>Brewer</hi> under a pain, now the Penalty is taken off, and they are only to give Notes <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> days after: thereason is not good, <hi>viz.</hi> because there are several Gauges necessary, for the highest is almost the Charge, and no inconvenience to an honest Gauger arises by the former Laws; and the <hi>Brewer</hi> cannot convince the Gauger of a mistake, but while the Liquor is there by a review or new Gauge; and to disprove it afterwards before the Commissioners is almost impossible, because the <hi>Brewer</hi> is required to swear that he was by all the while, and that none was Stoln. These and many more Inconveniencies will be the consequence of this Bill: Wherefore it is hoped that the said Bill shall not pass.</p>
+            <div type="part">
+               <head>These following Penalties (amongst others) are already upon the <hi>Brewers.</hi>
+               </head>
+               <p>
+                  <note place="margin">12 <hi>Car.</hi> II. <hi>ch.</hi>
+                  </note>For not Entring Weekly, and for every false Entry he forfeits 15<hi>l.</hi> besides the loss of the Allowance for Six Months.</p>
+               <p>
+                  <note place="margin">23.5l. <hi>th.</hi> 24. 10l.</note>For Non-payment every Week, he forfeits double the value of the Duty.</p>
+               <p>
+                  <note place="margin">1. <hi>Car.</hi> II. 2 <hi>Car.</hi> II. <hi>ch.</hi> 23. 5l. </note>For a Denial of Entrance to the Gauger, or not letting him enter and Gauge and view and search in all places, forfeits 15<hi>l.</hi> if any Drink be carried out, and also double the Duty.</p>
+               <p>
+                  <note place="margin">
+                     <hi>
+                        <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h.</hi> 24. 10l. 15 <hi>Car.</hi> II. 50l.</note>For making use of any private Store-house, Cellar, or place for laying Drink in Casks, or using any private Back, Copper, Cooler or other Vessel, he forfeits 50<hi>l.</hi>
+               </p>
+               <p>And any person that shall suffer them, or in whose House they shall be sound, forfeits 50<hi>l..</hi> and all the Vessels and Drink are also forfeited.</p>
+               <p>
+                  <note place="margin">15 <hi>Car.</hi> II. 20s.</note>For carrying out any Drink but at set hours, he forfeits 20<hi>s.</hi> a Barrel.</p>
+               <p>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>5 <hi>Car.</hi> II. 20s.</note>For mixing Strong Beer with Small, he forfeits 20<hi>s.</hi> a Barrel.</p>
+               <p>
+                  <note place="margin">15 <hi>Car.</hi> II. 20s.</note>For concealing or hiding any Drink before it be Gauged, or from the sight of the Gauger, he forfeits 20<hi>s.</hi> a Barrel.</p>
+               <p>
+                  <hi>So that it appears, an abundant care is taken to prevent the Crown being defrauded, great Penalties are upon the</hi> Brewer <hi>that shall do it: and tho it may be pretended that all these Penalties are not sufficient to prevent Frauds and Ill Practices; It is presumed that these are enough or none will be so, and the miscarriages of some are not to be imputed to all.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:190223:2"/>
+            <p>
+               <hi>The</hi> Brewers <hi>Case.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
